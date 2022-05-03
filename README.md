@@ -1,5 +1,5 @@
 # Python-Program-Data-Summary
-A python application that does the following:
+A python program that does the following:
 - reads data in csv file,
 - displays summary counts,
 - performs initial cleaning,
